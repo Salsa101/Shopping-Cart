@@ -1,0 +1,77 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Wireless Earbuds",
+        "description": "High-quality noise-cancelling wireless earbuds with Bluetooth 5.0.",
+        "price": 49.99,
+        "thumbnail": "https://images-cdn.ubuy.co.id/64d0f42fa463c01ee21b6e98-wireless-earbuds-bluetooth-headphones.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 2,
+        "title": "Smart Watch",
+        "description": "Waterproof smart watch with heart rate monitor and GPS tracking.",
+        "price": 99.99,
+        "thumbnail": "https://timekingdom.co.id/cdn/shop/files/VISION_pink_1@2x.jpg?v=1706063204",
+        "quantity" : 1
+      },
+      {
+        "id": 3,
+        "title": "Gaming Laptop",
+        "description": "High-performance laptop with 16GB RAM, 1TB SSD, and Nvidia RTX 3060.",
+        "price": 1299,
+        "thumbnail": "https://m.media-amazon.com/images/I/41EiU+1qrYL._SL500_.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 4,
+        "title": "Stainless Steel Bottle",
+        "description": "1-liter insulated water bottle, keeps drinks hot or cold for 24 hours.",
+        "price": 25.22,
+        "thumbnail": "https://baked.co.id/cdn/shop/files/WTMB1.jpg?v=1687846033",
+        "quantity" : 1
+      },
+      {
+        "id": 5,
+        "title": "DSLR Camera",
+        "description": "24.1 MP DSLR camera with 18-55mm lens and 1080p HD video recording.",
+        "price": 499.99,
+        "thumbnail": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//79/MTA-2211810/canon_canon-eos-3000d-kit-18-55mm-iii-kamera-dslr---black_full03.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 6,
+        "title": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with 360-degree sound and 12-hour battery life.",
+        "price": 79.99,
+        "thumbnail": "https://jete.id/wp-content/uploads/2023/08/S1B-17.jpg",
+        "quantity" : 1
+      },
+      {
+        "id": 7,
+        "title": "Running Shoes",
+        "description": "Lightweight and breathable running shoes for extra comfort.",
+        "price": 65.55,
+        "thumbnail": "https://mills.co.id/cdn/shop/files/9102603_-_YELLOW_WHITE_BLACK.png?v=1726028761",
+        "quantity" : 1
+      },
+      {
+        "id": 8,
+        "title": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse with adjustable DPI and silent click.",
+        "price": 29.99,
+        "thumbnail": "https://down-id.img.susercontent.com/file/811f4ca8a1b68241e8da00d3fbc210af",
+        "quantity" : 1
+      },
+      {
+        "id": 9,
+        "title": "Fitness Tracker",
+        "description": "Multi-functional fitness tracker with heart rate monitoring and sleep tracking.",
+        "price": 39.99,
+        "thumbnail": "https://gadgetcentral.co.ke/wp-content/uploads/2020/09/image.jpg",
+        "quantity" : 1
+      }
+    ]
+  }
+  
